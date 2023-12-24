@@ -1,6 +1,10 @@
 ﻿---
 layout: post
-author: ありす
+title: "Misskey Forkの話"
+date: 2023-12-25
+excerpt: "Misskey Advent Calendar 2023"
+tags: [Misskey, Advent, Calendar,]
+comments: true
 ---
 
 ## Misskey Fork の話
