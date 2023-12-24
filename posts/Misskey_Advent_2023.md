@@ -1,6 +1,9 @@
-﻿## Misskey Fork の話
+﻿---
+layout: post
+author: ありす
+---
 
- 
+## Misskey Fork の話
 
 > この記事はMisskey Advent Calendar 2023の最終日(12/25)の記事です。
 
