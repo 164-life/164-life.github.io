@@ -1,4 +1,6 @@
-# Site navigation links
-
-#- title: Projects
-#  url: /projects/
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Blog
+  link: /blog.html
